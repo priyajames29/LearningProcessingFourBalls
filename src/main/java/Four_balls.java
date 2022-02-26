@@ -11,7 +11,7 @@ public class Four_balls extends  PApplet {
     public static int fourthCircle = 0;
 
     public  static void main(String[] args) {
-        PApplet.main("TryProcessing", args);
+        PApplet.main("Four_balls", args);
 
     }
     @Override
